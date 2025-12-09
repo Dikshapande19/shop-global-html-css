@@ -10,8 +10,8 @@ This project focuses on providing a clean UI, smooth navigation, and a simple ye
 
 📁 **project-folder/**  
 ├─ 📄 `index.html`  
-├─ 📁 `css` 
-├─ 📁 `pages`
+├─ 📁 `css/` 
+├─ 📁 `pages/`
 ├─ 📁 `images/`  
 │  ├─ 📁 `folders/`  
 │  ├─ 🖼️ `fashion.png`  
